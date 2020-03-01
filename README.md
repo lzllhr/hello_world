@@ -1,2 +1,2 @@
 # hello_world
-for practice
+vscode的使用，有关于hello world
