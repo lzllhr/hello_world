@@ -1,0 +1,4 @@
+安装python插件，按下快捷键ctrl+shift+p，输入interpreter，单击筛选出来的结果“Python: Select Interpreter"，就会跳出windows系统上已经安装的所有python解释器，我们这里随便选择一个即可，因为我们之后会自定义setting.json配置文件中的值，这一步只是为了生成setting.json这个配置文件。
+
+https://www.zhihu.com/question/322530705
+https://www.cnblogs.com/DesignerA/p/11604200.html
