@@ -1,2 +1,2 @@
-print("hello world!") ##为注释
+print("hello world!") ##Ϊע��
 input("press <Enter>")
